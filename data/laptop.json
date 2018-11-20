@@ -1,0 +1,34 @@
+{
+  "laptops":[
+  {
+    "id": 1,
+    "name": "Acer Aspire 5 A515-51G-55SC",
+    "title": "Acer Aspire 5 A515-51G-55SC",
+    "category": "laptops",
+    "price": 699,
+    "description": "Foto's bewerken, multitasken en video's kijken doe je met de 15,6 inch Acer Aspire 5 A515-51G-55SC. Dankzij de achtste generatie Intel® Core™ i5-8250U processor is jouw Acer Aspire niet langzamer als je veel internet tabjes tegelijk open hebt staan, of een foto voorziet van een mooi filter met programma's als Adobe Photoshop. Samen een filmpje kijken? Dankzij het IPS scherm zie je kleuren ook goed als je niet recht voor het scherm zit, en is het is geen dringen geblazen. De anti-glare laag zorgt ervoor dat je minder last hebt van reflecties op het scherm. Met de usb c aansluiting laad je apparaten zoals jouw mobiel op, waardoor je niet steeds op zoek gaat naar een stopcontact..&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aanbevelingen:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Internetten, mailen & tekstverwerken: geschikt.&lt;/li&gt;&lt;li&gt;Films & series kijken: geschikt.&lt;/li&gt;&lt;li&gt;Foto's bewerken: geschikt.&lt;/li&gt;&lt;li&gt;Video's bewerken: mogelijk, maar niet zo snel.&lt;/li&gt;&lt;li&gt;Gamen: ongeschikt.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+    "image": "data/images/laptop1small.jpg",
+    "largeImage": "data/images/laptop1big.jpg"
+  },
+  {
+    "id": 2,
+    "name": "HP Pavilion 15-cs0975nd",
+    "title": "HP Pavilion 15-cs0975nd",
+    "category": "laptops",
+    "price": 899,
+    "description": "Op de 15,6 inch HP Pavilion 15-cs0975nd bewerk je video's in Premiere Pro en speel je games als Minecraft dankzij de NVIDIA GeForce MX150 videokaart. Deze videokaart zorgt dat grafische processen zoals het renderen van je montages soepel verloopt. Deze laptop heeft een 128 GB SSD, waarmee de laptop in ongeveer 15 seconden nadat je de laptop opstart aan de slag gaat. Op de 1TB HDD schijf is genoeg ruimte om al je videoprojecten te bewaren. Het scherm is anti reflecterend. Dit zorgt dat reflecties van de zon of lampen minder weerkaatsen op het scherm, zo blijft het scherm goed leesbaar. Ook als je niet recht voor het scherm zit, want het IPS paneel geeft vanuit alle kijkhoeken een goede kleurweergave.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aanbevelingen:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Internetten, mailen & tekstverwerken: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Films & series kijken: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Foto's bewerken: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Video's bewerken: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Gamen: mogelijk, maar alleen op lage instellingen.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+    "image": "data/images/laptop2small.jpg",
+    "largeImage": "data/images/laptop2big.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Yoga 530-14IKB 81EK00HWMH",
+    "title": "Lenovo Yoga 530-14IKB 81EK00HWMH",
+    "category": "laptops",
+    "price": 799,
+    "description": "De Lenovo Yoga 530-14IKB 81EK00HWMH is een laptop die je ook als tablet gebruikt. Klap het 14 inch scherm 360 graden om en maak tekeningen en schets alsof je op papier werkt. Wanneer je tekst moet verwerken zet je de laptop in de laptopstand en gebruik je het volwaardige toetsenbord om snel te typen. Dankzij de Intel Core i5 processor en het 8GB werkgeheugen retoucheer je zonder haperingen foto's in Photoshop. De Yoga is binnen 15 seconden opgestart dankzij de 256 GB PCIe NVMe SSD. Met deze SSD start je laptop sneller op dan met een traditionele SSD. Klaar met je werkzaamheden? Zet de 2-in-1 in de tentstand, zak onderuit op de bank en kijk een film of serie of het Full HD IPS scherm met brede kijkhoek.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aanbevelingen:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Internetten & mailen: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Films & series kijken: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Foto's bewerken: geschikt.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Video's bewerken: mogelijk, maar niet zo snel.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+    "image": "data/images/laptop3small.jpg",
+    "largeImage": "data/images/laptop3big.jpg"
+  }
+]
+}
